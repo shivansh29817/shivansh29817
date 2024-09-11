@@ -8,7 +8,7 @@
 - Deep Dive into CS Fundamentals: Operating Systems, DBMS, and beyond.
 - IoT Innovations: Designing and developing cutting-edge IoT projects.
 
-🛠️ Open to Collabs:
+#### 🛠️ Open to Collabs:
 Let’s connect and explore the future of tech together! Check out my projects and let’s build something amazing!
 
 ## 🌐 Socials:
