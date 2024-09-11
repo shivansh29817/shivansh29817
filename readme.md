@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=36&duration=2002&pause=1000&color=F7F7F7&width=755&height=80&lines=Yoo%2C+Welcome+to+Shivansh's+Github+Profile+!)](https://git.io/typing-svg)
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture><font size=24> Know me</font>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture><font size=34> Know me</font>
 
 👋 Passionate Computer Science Engineering student with expertise in the MERN stack and a deep understanding of core CS concepts. I thrive on building innovative solutions and am particularly drawn to the world of IoT, where I’ve developed several hands-on projects that merge software with hardware. Continuously exploring new technologies, I’m always ready to collaborate and contribute to cutting-edge projects that push the boundaries of tech.
 ## 🌟 Future Tech Innovator | MERN Stack Aficionado | IoT Enthusiast 🌟
