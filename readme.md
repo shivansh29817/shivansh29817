@@ -1,5 +1,4 @@
 ### [📄 View My Resume](https://drive.google.com/drive/folders/1vY2C3LT8tJfpLIaJetUnugMJKHvp-9G8?usp=sharing)  
-[![Resume](https://img.shields.io/badge/Resume-Download-brightgreen?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1vY2C3LT8tJfpLIaJetUnugMJKHvp-9G8?usp=sharing)
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Yoo%2C+Welcome+to+Shivansh's+Github+Profile!" align="middle" alt="Yoo, Welcome to my Profile! animated typed out">
 
